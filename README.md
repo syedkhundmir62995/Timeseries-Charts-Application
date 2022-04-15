@@ -1,5 +1,7 @@
 # Timeseries-Charts-Application
 
+![Screenshot][screenshot.png]
+
 #### I have developed this application as a part of exercise to gain an understanding and get familiar with the logic, syntax, control flow and architecture of FARM stack. 
 
 #### Firstly, I extracted a suitable time series dataset from Kaggle. The dataset had pretty issues related to consistency, completeness and validity. I worked on data cleaning for improving the data quality and then imported refined dataset into Mongodb.
