@@ -1,7 +1,7 @@
 # Timeseries-Charts-Application
 
 <p>
-<img src="./screenshot.png" height = "200" width = "250" />
+<img src="./screenshot.png" height = "300" width = "550" />
 </p>
 
 #### I have developed this application as a part of exercise to gain an understanding and get familiar with the logic, syntax, control flow and architecture of FARM stack. 
