@@ -1,6 +1,6 @@
 # Timeseries-Charts-Application
 
-![Screenshot](screenshot.png width="180")
+![Screenshot](screenshot.png)
 
 #### I have developed this application as a part of exercise to gain an understanding and get familiar with the logic, syntax, control flow and architecture of FARM stack. 
 
